@@ -18,7 +18,11 @@ int main(int argc, char *argv[]) {
     Complexo c1;
     complexo c2;
     Complexo c3(1,2);
-    c3=c1+c2;
+    int a = atof(argv[0])
+    int b = atof(argv[1])
+    int c = atof(argv[2])
+    int d = atof(argv[3])
+  
 
     return 0;
   }
